@@ -140,6 +140,7 @@ p{
         display: flex;
         flex-direction: row;
         width: 600px;
+        margin-top: 175px;
     }
     .imgContainer{
         height: 450px;
